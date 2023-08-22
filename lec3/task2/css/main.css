@@ -1,0 +1,20 @@
+body {
+
+    background: linear-gradient(to right, rgba(40, 40, 40, 0.7), rgba(40, 40, 40, 0.7)), url("../img/bg-masthead.jpg");
+    background-size: cover;
+
+}
+
+.top {
+    margin-bottom: 900px;
+
+}
+
+.box {
+
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    background-color: #202020;
+
+}

@@ -1,0 +1,12 @@
+body {
+    background-image: url("../img/kristin.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box {
+    width: 35%;
+    height: 150px;
+    color: white;
+    background-color: #a8968138;
+}
